@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 17px;
+  color: white;
+}
+
+
+.selected {
+  background-color: slateblue
+}
+
+.wrong {
+  background-color: red;
+}
